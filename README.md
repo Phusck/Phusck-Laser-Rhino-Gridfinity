@@ -14,7 +14,7 @@ It is important to know that the designs do not contain the button connection pl
 **Design procedure:**
 
 - You will very likely need the tools from: [Phusck-Laser-Rhino-Utility](https://github.com/Phusck/Phusck-Laser-Rhino-Utility)
-- In Rhino, open the grasshopper file "Gridfinity Laser Generator"
+- In Rhino -> open the grasshopper -> In Grashopper open the file "Gridfinity Laser Generator"
 - XYZ values changes size of product being generated.
 - Underneath the XYZ Number sliders are the relevant objects that can be baked.
   - Right click these to turn the preview on and off, to show preview in Rhino
