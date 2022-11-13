@@ -13,5 +13,5 @@ It is important to know that the designs do not contain the button connection pl
 
 Design procedure:
 
-You will very likely need the tools from: [Phusck-Laser-Rhino-Utility]([url](https://github.com/Phusck/Phusck-Laser-Rhino-Utility))
+You will very likely need the tools from: [Phusck-Laser-Rhino-Utility](https://github.com/Phusck/Phusck-Laser-Rhino-Utility)
 
