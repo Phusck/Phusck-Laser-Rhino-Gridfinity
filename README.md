@@ -6,5 +6,12 @@ Contains:
 - Design files in Rhino save standard***.
 - Grasshopper scripts for generatign new designs in Rhino.
 
-Cutting procedure.
-It is impaortant to know that the designs do not contain the button connection plates. To save materials these are cut whilst cutting the base plates.
+
+Cutting procedure:
+
+It is important to know that the designs do not contain the button connection plates. To save materials these are cut whilst cutting the base plates.
+
+Design procedure:
+
+You will very likely need the tools from: [Phusck-Laser-Rhino-Utility]([url](https://github.com/Phusck/Phusck-Laser-Rhino-Utility))
+
