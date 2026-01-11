@@ -4,7 +4,7 @@ Files for Laser Cutting Bins, Trays and much more that fit the Gridfinity system
 **Contains:** 
 - PDFs ready to cut.
 - Design files in Rhino save standard***.
-- Grasshopper scripts for generatign new designs in Rhino.
+- Grasshopper scripts for generating new designs in Rhino.
 ---
 **Cutting procedure:**
 
